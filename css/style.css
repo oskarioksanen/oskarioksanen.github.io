@@ -278,6 +278,15 @@ nav ul.topnav li.right {float: right;}
 
     .row.cv {
         width: 800px;
+        /*height: 600px;*/
+    }
+
+    .row.cv.education {
+        height: 800px;
+    }
+
+    .row.cv.skills {
+        height: 550px;
     }
 
     .column.projects.top {
